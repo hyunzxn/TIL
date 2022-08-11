@@ -1,2 +1,11 @@
 # TIL
-Records are bound to come in handy someday.
+### Records are bound to come in handy someday. (기록은 언젠가 반드시 쓸모가 있다.)
+
+
+
+그날그날 공부한 것을 기록하고자 합니다. 기억을 신뢰하는 것보단 기록을 남기는 것이 더 안전하다는 것을 알기 때문입니다. 
+
+
+
+
+
