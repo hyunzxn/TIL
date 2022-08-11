@@ -13,6 +13,7 @@
 - **viewResolver**: String 형태로 넘어온 viewName을 받아서 VIew 객체 생성
 - **View**: 모델과 viewName 받아서 화면에 그려주는 역할 수행
 
+<br>
 
 
 # HTTP 요청에 따른 Spring MVC 처리 흐름
