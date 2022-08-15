@@ -2,7 +2,7 @@
 
 Spring MVC에서 @ModelAttribute란 무엇이고 어떻게 사용하는지에 대해서 공부하고 기록을 남기려 합니다.
 
-
+<br>
 
 ## @ModelAttribute가 없이 개발을 한다면?
 
