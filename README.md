@@ -8,5 +8,5 @@
 <br>
 
 > ## Collections
-- [Spring MVC](https://github.com/hyunzxn/TIL/tree/main/spring_mvc)
+- [Spring](https://github.com/hyunzxn/TIL/tree/main/spring_mvc)
 - [Tools](https://github.com/hyunzxn/TIL/tree/main/tools)
