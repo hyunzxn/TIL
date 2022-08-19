@@ -14,7 +14,7 @@
 
 `th:text="${data}"`
 
-ex) <li>th:text 사용 <span th:text="${data}"></span></li> → 태그의 attribute에 넣어줌
+ex) `<li>th:text 사용 <span th:text="${data}"></span></li>` → 태그의 attribute에 넣어줌
 
 - th:text  속성 사용
 - ${} 담을 데이터를 { } 안에 넣어주면 된다. 이 때 데이터 값 자체를 넣는 것이 아니라 attributeName을 넣어줘야한다.
@@ -25,7 +25,7 @@ ex) <li>th:text 사용 <span th:text="${data}"></span></li> → 태그의 attrib
 
 `[[${data}]]`
 
-ex) <li>컨텐츠 안에서 직접 출력하기 = [[${data}]]</li>  → 태그 내용에서 바로 사용
+ex) `<li>컨텐츠 안에서 직접 출력하기 = [[${data}]]</li>`  → 태그 내용에서 바로 사용
 
 <br>
 
