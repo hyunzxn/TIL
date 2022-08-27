@@ -12,3 +12,4 @@
 - [Tools](https://github.com/hyunzxn/TIL/tree/main/tools)
 - [Thymeleaf](https://github.com/hyunzxn/TIL/tree/main/Thymeleaf)
 - [Java](https://github.com/hyunzxn/TIL/tree/main/java)
+- [JPA](https://github.com/hyunzxn/TIL/tree/main/jpa)
