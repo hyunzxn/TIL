@@ -60,6 +60,8 @@ JWT에 대한 좋은 글들은 구글에 넘치도록 있으니 이 글에서는
 
 📌코드 확인: https://github.com/hyunzxn/JWT-Tutorial
 
+(모든 코드는 [이곳]( https://lealea.tistory.com/144) 을 참고해서 따라했습니다!)
+
 
 
 스프링 시큐리티와 JWT를 활용하여 인증 처리를 하기 위해 사용되는 주요 개념들이 몇 가지 있다.
