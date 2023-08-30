@@ -4,6 +4,8 @@
 
 이번 기회에 메서드 레퍼런스에 대해서 확실하게 공부해보고 그걸 정리하고자 합니다.  
 
+&nbsp;
+
 # 2. 메서드 레퍼런스(Method Reference) 사용법
 
 ## 2.1 메서드 레퍼런스란?
@@ -40,9 +42,9 @@ fun.accept("Hello")
 2. Instance 메서드 레퍼런스
 3. Constructor 메서드 레퍼런스
 
-이제 각각에 대해서 정리해보고자 합니다.
+이제 각각에 대해서 정리해보고자 합니다.  
 
-
+&nbsp;
 
 **Static 메서드 레퍼런스**
 
@@ -59,14 +61,14 @@ public class StaticMethodReferenceExample {
   }
 
   interface Movable {
-		void move(int distance);
+    void move(int distance);
   }
 
   public static class Car {
-  	static void moving(int distance) {
-    	System.out.println("움직인 거리는 " + distance + " 입니다.");
-  	}
-	}
+    static void moving(int distance){
+      System.out.println("움직인 거리는 " + distance + " 입니다.");
+    }
+  }
 
 }
 
@@ -88,10 +90,10 @@ public class StaticMethodReferenceExample {
   }
 
   public static class Car {
-  	static void moving(int distance) {
+    static void moving(int distance) {
       System.out.println("움직인 거리는 " + distance + " 입니다.");
     }
-	}
+  }
 
 }
 
@@ -102,7 +104,7 @@ public class StaticMethodReferenceExample {
 
 결과는 동일하게 나옵니다.
 
-
+&nbsp;
 
 **Instance 메서드 레퍼런스**
 
@@ -113,7 +115,7 @@ public class InstanceMethodReferenceExample {
 
   public static void main(String[] args) {
     List<Country> countries = Arrays.asList(
-    	new Country("한국"),
+      new Country("한국"),
       new Country("미국"),
       new Country("일본")
     );
@@ -147,7 +149,7 @@ public class InstanceMethodReferenceExample {
 
   public static void main(String[] args) {
     List<Country> countries = Arrays.asList(
-    	new Country("한국"),
+      new Country("한국"),
       new Country("미국"),
       new Country("일본")
     );
@@ -174,7 +176,7 @@ public class InstanceMethodReferenceExample {
 // 일본
 ```
 
-
+&nbsp;
 
 **Constructor 메서드 레퍼런스**
 
@@ -240,6 +242,7 @@ public class ConstructorMethodReferenceExample {
 // 일본
 ```
 
+&nbsp;
 
 ## 3. 마치며
 
@@ -247,7 +250,7 @@ public class ConstructorMethodReferenceExample {
 
 아직 함수형 프로그래밍에 익숙치 않아서 람다, 함수형 인터페이스, 메서드 레퍼런스 등을 사용하는 것이 익숙하지는 않습니다. 파라미터가 뭐지? 하면서 다시 한 번 코드를 천천히 봐야 하는 미숙함이 있지만 점차 익숙해질 것을 기대해봅니다.
 
-
+&nbsp;
 
 **<참고>**
 
