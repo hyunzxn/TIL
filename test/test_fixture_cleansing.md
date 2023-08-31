@@ -515,3 +515,6 @@ public class UserLoanHistory {
 
 [참고]
 
+[실전! 코틀린과 스프링부트로 도서관리 애플리케이션 개발하기(Java 프로젝트 리팩토링)](https://www.inflearn.com/course/java-to-kotlin-2/dashboard)
+
+[Practical Testing: 실용적인 테스트 가이드](https://www.inflearn.com/course/practical-testing-%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B0%80%EC%9D%B4%EB%93%9C/dashboard)
