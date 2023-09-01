@@ -50,7 +50,7 @@ IP주소는 통신 용도에 따라 두 가지로 나눌 수가 있습니다.
 
 **서브넷**이란 네트워크를 분리하는 부분 네트워크입니다. 그림으로 보면 이렇게 될 수 있겠네요.
 
-<img src="https://github.com/hyunzxn/TIL/assets/100478841/711b6fee-6f56-4e5c-9bdc-c162695bf559" alt="IMG_0147" style="zoom:30%;"/>
+<img src="https://github.com/hyunzxn/TIL/assets/100478841/711b6fee-6f56-4e5c-9bdc-c162695bf559" alt="IMG_0147" width="300"/>
 
 
 
