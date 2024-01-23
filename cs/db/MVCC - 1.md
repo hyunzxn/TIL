@@ -1,6 +1,6 @@
 # 1. 들어가며
 
-[Lock을 이용한 DB Concurrency 제어 글]([TIL/cs/db/Lock 활용 concurrency control.md at main · hyunzxn/TIL (github.com)](https://github.com/hyunzxn/TIL/blob/main/cs/db/Lock 활용 concurrency control.md))에서 Lock을 이용한 방식의 한계점을 극복하기 위해 등장한 MVCC에 대해서 정리해보는 글입니다.
+[Lock을 이용한 DB Concurrency 제어 글](https://github.com/hyunzxn/TIL/blob/main/cs/db/Lock%20%ED%99%9C%EC%9A%A9%20concurrency%20control.md)에서 Lock을 이용한 방식의 한계점을 극복하기 위해 등장한 MVCC에 대해서 정리해보는 글입니다.
 
 &nbsp;
 
